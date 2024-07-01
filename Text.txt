@@ -1,0 +1,9 @@
+five pages every day
+(
+ - api 
+ - date for render pages every day
+ - lacal storage 
+ - progress page
+ - control num of pages shown every day
+ - what you have read
+)
